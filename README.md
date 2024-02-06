@@ -13,7 +13,8 @@ Skills: $BASH / HTML / CSS / Proxmox / TrueNAS
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Its4Nik&show_icons=true) | ![GitHub streak stats](https://streak-stats.demolab.com/?user=Its4Nik) |
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Its4Nik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.itsnik.de)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/its4nik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/zyrondj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/Its4Nik/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Its4Nik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.itsnik.de)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/its4nik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/zyrondj)  [<img src='![image](https://github.com/Its4Nik/Its4Nik/assets/106100177/b46959f2-55a3-4ec0-ba25-ef3e590fc62d)
+' alt='steam' height='40'>](https://steamcommunity.com/id/Its4Nik/)  
 
 If you want to contact me write me an E-Mail:
 [Contact Me](mailto:info@witsnik.de)
