@@ -13,8 +13,9 @@ Skills: $BASH / HTML / CSS / Proxmox / TrueNAS
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Its4Nik&show_icons=true) | ![GitHub streak stats](https://streak-stats.demolab.com/?user=Its4Nik) |
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Its4Nik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.itsnik.de)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/its4nik)  [<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/d383746a-645f-4a3e-8f40-9d150ebc424e' alt='sound'>](https://soundcloud.com/zyrondj)  [<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/95421b62-a449-4154-b1bf-eb07e9b51fe9' alt='steam'>](https://steamcommunity.com/id/Its4Nik/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Its4Nik)  [<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/2905abc0-e962-4f98-a968-eba24e2d177a' alt='sound'>](https://www.itsnik.de)  [<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/d383746a-645f-4a3e-8f40-9d150ebc424e' alt='sound'>](https://discord.com/users/its4nik)  [<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/d383746a-645f-4a3e-8f40-9d150ebc424e' alt='sound'>](https://soundcloud.com/zyrondj)  [<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/95421b62-a449-4154-b1bf-eb07e9b51fe9' alt='steam'>](https://steamcommunity.com/id/Its4Nik/)  
 
 If you want to contact me write me an E-Mail:
 [Contact Me](mailto:info@witsnik.de)
 
+![icons8-website](https://github.com/Its4Nik/Its4Nik/assets/106100177/2905abc0-e962-4f98-a968-eba24e2d177a)
