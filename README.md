@@ -6,4 +6,6 @@
   style="width:100%; height:300px;"
 ></iframe>
 
-[![Spotify](https://widget.nowplaying.site/R28L9mylGeXAROQ6)]
+[![Spotify](https://widget.nowplaying.site/R28L9mylGeXAROQ6)](https://open.spotify.com/collection/tracks)
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
