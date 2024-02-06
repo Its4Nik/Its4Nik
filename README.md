@@ -1,11 +1,3 @@
 ### Hi there 👋
 
-[Now Playing...](https://widget.nowplaying.site/R28L9mylGeXAROQ6)
-<iframe
-  src="[https://widget.nowplaying.site/R28L9mylGeXAROQ6"
-  style="width:100%; height:300px;"
-></iframe>
-
-[![Spotify](https://widget.nowplaying.site/R28L9mylGeXAROQ6)](https://open.spotify.com/collection/tracks)
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4rs6mijboni6x7hhzjbwm0j1o&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4rs6mijboni6x7hhzjbwm0j1o&redirect=true)
