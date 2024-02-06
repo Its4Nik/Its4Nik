@@ -13,10 +13,7 @@ Skills: $BASH / HTML / CSS / Proxmox / TrueNAS
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Its4Nik&show_icons=true) | ![GitHub streak stats](https://streak-stats.demolab.com/?user=Its4Nik) |
 
 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://github.com/Its4Nik/Its4Nik/assets/106100177/34e3cc54-eb10-42bd-94e4-b40a0c4c9c8e)' alt='github'>](https://github.com/Its4Nik)  [<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/9f52424c-1007-4eb4-bede-61a777ee7814' alt='website'>](https://www.itsnik.de)  [<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/d383746a-645f-4a3e-8f40-9d150ebc424e' alt='sound'>](https://discord.com/users/its4nik)  [<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/d383746a-645f-4a3e-8f40-9d150ebc424e' alt='sound'>](https://soundcloud.com/zyrondj)  [<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/95421b62-a449-4154-b1bf-eb07e9b51fe9' alt='steam'>](https://steamcommunity.com/id/Its4Nik/)  
+[<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/34e3cc54-eb10-42bd-94e4-b40a0c4c9c8e' alt='github'>](https://github.com/Its4Nik)  [<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/9f52424c-1007-4eb4-bede-61a777ee7814' alt='website'>](https://www.itsnik.de)  [<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/d88c7098-023c-488d-920f-3b11bb2ee92b' alt='discord'>](https://discord.com/users/its4nik)  [<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/d383746a-645f-4a3e-8f40-9d150ebc424e' alt='sound'>](https://soundcloud.com/zyrondj)  [<img src='https://github.com/Its4Nik/Its4Nik/assets/106100177/95421b62-a449-4154-b1bf-eb07e9b51fe9' alt='steam'>](https://steamcommunity.com/id/Its4Nik/)  
 
-If you want to contact me write me an E-Mail:
+If you want to contact me write me an E-Mail or contact me on Discord:
 [Contact Me](mailto:info@witsnik.de)
-
-
-(https://github.com/Its4Nik/Its4Nik/assets/106100177/34e3cc54-eb10-42bd-94e4-b40a0c4c9c8e)
