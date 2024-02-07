@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Nik
 
-Skills: $BASH / HTML / CSS / Proxmox / TrueNAS
+Skills: $BASH / Proxmox / TrueNAS
 
 - 🔭 I’m currently working on "[Kopfschmerz Kollektiv](https://soundcloud.com/kopfschmerzkollektiv)" Website 
 - 🌱 I’m currently learning Angular and C# 
