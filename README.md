@@ -3,8 +3,8 @@
 Skills: $BASH / Proxmox / TrueNAS
 
 - 🔭 I’m currently working on "[Kopfschmerz Kollektiv](https://soundcloud.com/kopfschmerzkollektiv)" Website 
-- 🌱 I’m currently learning Angular and C# 
-- 🤔 I’m looking for help with Life 
+- 🌱 I’m currently learning C# 
+- 🤔 I’m looking for help with Life (im a BASH Scripter...)
 - 📫 How to reach me: Email, see below 
 - ⚡ Fun fact: I like making stupid hardstyle remixes 
 
