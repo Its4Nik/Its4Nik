@@ -2,7 +2,7 @@
 
 Skills: $BASH / Proxmox / TrueNAS
 
-- 🔭 I’m currently working on "[Kopfschmerz Kollektiv](https://soundcloud.com/kopfschmerzkollektiv)" Website 
+- 🔭 I’m currently working on "[EasyOutline](https://github.com/its4nik/easyoutline)" Website 
 - 🌱 I’m currently learning C# 
 - 🤔 I’m looking for help with Life (im a BASH Scripter...)
 - 📫 How to reach me: Email, see below 
