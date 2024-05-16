@@ -2,7 +2,7 @@
 
 Skills: $BASH / Proxmox / TrueNAS
 
-- 🔭 I’m currently working on "[Dockerizing UptimeFlare]([https://github.com/its4nik/easyoutline](https://github.com/lyc8503/UptimeFlare))"
+- 🔭 I’m currently working on Dockerizing "[UptimeFlare]([https://github.com/its4nik/easyoutline](https://github.com/lyc8503/UptimeFlare))"
 - 🌱 I’m currently learning C# 
 - 🤔 I’m looking for help with Life (im a BASH Scripter...)
 - 📫 How to reach me: Email, see below 
