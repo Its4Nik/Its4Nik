@@ -1,9 +1,9 @@
 ### Hi there 👋, My Name is Nik
 
-Skills: $BASH / Proxmox / TrueNAS
+Skills: $BASH / Proxmox / TrueNAS / A bit of JavaScript
 
-- 🔭 I’m currently working on QURL and Making changes to Tianji
-- 🌱 I’m currently learning C# 
+- 🔭 I’m currently working on dockstat(api)
+- 🌱 I’m currently learning javascript
 - 🤔 I’m looking for help with Life (im a BASH Scripter...)
 - 📫 How to reach me: Email, see below 
 - ⚡ Fun fact: I like making stupid hardstyle remixes 
