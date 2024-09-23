@@ -16,7 +16,7 @@
 - 💬 Ask me about **BASH**
 </p>
 <p align="center">
-- 📫 How to reach me **info@itsnik.de**
+- 📫 How to reach me <a href="mailto:info@itsnik.de" target="_blank" rel="norefferer">info@itsnik.de</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
