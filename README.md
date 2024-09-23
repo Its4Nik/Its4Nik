@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsnik&label=Profile%20views&color=0e75b6&style=flat" alt="itsnik" /> </p>
 
 <p align="center">
-- 🔭 I’m currently working on [DockStat](https://github.com/its4nik/Dockstat)
+- 🔭 I’m currently working on <a href="https://github.com/its4nik/Dockstat" target="_blank" rel="norefferer">DockStat</a>
 - 🌱 I’m currently learning **JavaScript, REACT**
 - 👯 I’m looking to collaborate on [DockStatAPI](https://github.com/its4nik/DockStatAPI)
 - 💬 Ask me about **BASH**
