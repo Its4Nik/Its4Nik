@@ -7,13 +7,13 @@
 - 🔭 I’m currently working on <a href="https://github.com/its4nik/Dockstat" target="_blank" rel="noreferrer">DockStat</a>
 </p>
 <p align="center">
-- 🌱 I’m currently learning **JavaScript, REACT**
+- 🌱 I’m currently learning JavaScript, REACT, C#
 </p>
 <p align="center">
 - 👯 I’m looking to collaborate on <a href="https://github.com/its4nik/DockStatAPI" target="_blank" rel="noreferrer">DockStatAPI</a>
 </p>
 <p align="center">
-- 💬 Ask me about **BASH**
+- 💬 Ask me about BASH and TrueNas Scale
 </p>
 <p align="center">
 - 📫 How to reach me <a href="mailto:info@itsnik.de" target="_blank" rel="norefferer">info@itsnik.de</a>
