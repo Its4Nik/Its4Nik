@@ -3,8 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsnik&label=Profile%20views&color=0e75b6&style=flat" alt="itsnik" /> </p>
 
 <h3 align="center">Here is my current project! </h3>
+
 ![DockStat2-04](https://github.com/user-attachments/assets/2f549177-99b2-43f7-b8eb-1de0645c21a5)
-<p align="center">DockStat is a simple, leightweight docker dashboard, come [check it out](https://github.com/Its4Nik/DockStat)! </p>
+<p align="center">DockStat is a simple, leightweight docker dashboard, come <a href="https://github.com/Its4Nik/DockStat)">check it out</a>!</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
