@@ -39,10 +39,10 @@
 <h2 align="center">📌 Pinned Repositories</h2>
 
 <p align="center">
-  <a href="https://github.com/Its4Nik/YourRepo1">
+  <a href="https://github.com/Its4Nik/dockstat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its4Nik&repo=dockstat&theme=radical" alt="Pinned Repo 1">
   </a>
-  <a href="https://github.com/Its4Nik/YourRepo2">
+  <a href="https://github.com/Its4Nik/dockstatapi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its4Nik&repo=dockstatapi&theme=radical" alt="Pinned Repo 2">
   </a>
 </p>
