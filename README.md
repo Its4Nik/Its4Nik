@@ -1,25 +1,58 @@
 <h1 align="center">Heyoooo! I'm Nik</h1>
 <h3 align="center">A 17 year old Datacenter-Support worker!</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsnik&label=Profile%20views&color=0e75b6&style=flat" alt="itsnik" /> </p>
+<h1 align="center">Hi there, I'm Its4Nik 👋</h1>
 
-<h3 align="center">Here is my current project! </h3>
-
-![DockStat2-04](https://github.com/user-attachments/assets/2f549177-99b2-43f7-b8eb-1de0645c21a5)
-<p align="center">DockStat is a simple, leightweight docker dashboard, come <a href="https://github.com/Its4Nik/DockStat">check it out</a>!</p>
-
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-
-<h3 align="center"> Funny looking Stats:</h3>
 <p align="center">
-  <img align="center" alt="Its4Nik's Stats" src="https://github-readme-stats.vercel.app/api?username=Its4Nik&theme=jolly&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://img.shields.io/github/followers/Its4Nik?style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/Its4Nik?style=social" alt="GitHub User's stars">
 </p>
+
+<h2 align="center">🌟 About Me</h2>
+
 <p align="center">
-  <img align="center" alt="Its4Nik's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Its4Nik&theme=jolly&hide_border=true" />
+  💻 I’m currently working on <b>DockStat (API)</b><br>
+  📚 I’m currently learning <b>TypeScript</b><br>
+  👯 I’m looking to collaborate on <b>DockStat</b><br>
+  💬 Ask me about <b>Bash and TrueNas Scale</b><br>
+  📫 How to reach me: <b>info@itsnik.de</b><br>
 </p>
+
+<h2 align="center">🔧 Technologies & Tools</h2>
+
 <p align="center">
-  <img align="center" alt="Its4Nik's Top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its4Nik&theme=jolly&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/-Zed-black?style=flat-square&logo=zed" alt="Zed">
+  <img src="https://img.shields.io/badge/-Arch%20Linux-black?style=flat-square&logo=arch-linux" alt="Arch Linux">
+  <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code" alt="VS Code">
 </p>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Its4Nik&show_icons=true&theme=radical" alt="Its4Nik's GitHub stats">
+</p>
+
+<h2 align="center">📌 Pinned Repositories</h2>
+
+<p align="center">
+  <a href="https://github.com/Its4Nik/YourRepo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its4Nik&repo=dockstat&theme=radical" alt="Pinned Repo 1">
+  </a>
+  <a href="https://github.com/Its4Nik/YourRepo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its4Nik&repo=dockstatapi&theme=radical" alt="Pinned Repo 2">
+  </a>
+</p>
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+  <a href="mailto:info@itsnik.de">
+    <img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail" alt="Email">
+  </a>
+</p>
+
+<p align="center">Thanks for stopping by! Have a great day! 😄</p>
