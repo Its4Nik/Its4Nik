@@ -48,16 +48,26 @@
 
 <h2 align="center">📌 Pinned Repositories</h2>
 
-[![DockStat](https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStat&theme=holi)](https://github.com/its4nik/dockstat)
-
-[![DockStatAPI](https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStatAPI&theme=holi)](https://github.com/its4nik/dockstatapi)
-
-[![DockStacks](https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStacks&theme=holi)](https://github.com/its4nik/DockStacks)
-
-<h2 align="center>💻 Top Languages </h2>
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its4nik&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/its4nik/dockstat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStat&theme=holi" alt="DockStat">
+  </a>
+  <a href="https://github.com/its4nik/dockstatapi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStatAPI&theme=holi" alt="DockStatAPI">
+  </a>
+  <a href="https://github.com/its4nik/DockStacks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStacks&theme=holi" alt="DockStacks">
+  </a>
 </div>
+
+<h2 align="center">💻 Top Languages</h2>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its4nik&layout=compact&theme=holi" alt="Top Languages">
+  </a>
+</div>
+
 <h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
