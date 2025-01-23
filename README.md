@@ -39,12 +39,9 @@
 <h2 align="center">📌 Pinned Repositories</h2>
 
 <p align="center">
-  <a href="https://github.com/Its4Nik/dockstat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its4Nik&repo=dockstat&theme=radical" alt="Pinned Repo 1">
-  </a>
-  <a href="https://github.com/Its4Nik/dockstatapi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its4Nik&repo=dockstatapi&theme=radical" alt="Pinned Repo 2">
-  </a>
+  <a href="https://github.com/Its4Nik/DockStat"><img src="https://gh-card.dev/repos/Its4Nik/DockStat.svg"></a>
+  <a href="https://github.com/Its4Nik/DockStatAPI"><img src="https://gh-card.dev/repos/Its4Nik/DockStatAPI.svg"></a>
+  <a href="https://github.com/Its4Nik/DockStacks"><img src="https://gh-card.dev/repos/Its4Nik/DockStacks.svg"></a>
 </p>
 
 <h2 align="center">📫 Connect with Me</h2>
