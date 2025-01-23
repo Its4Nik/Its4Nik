@@ -33,7 +33,17 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=nightowl&preferLogin=false&Border=DD272700">    <img  alt="Its4Nik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Its4Nik?cardType=level-alternate&theme=nightowl&preferLogin=false&Border=DD272700" />  </a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=its4nik&show_icons=true&theme=holi"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=its4nik&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 </p>
 
 <h2 align="center">📌 Pinned Repositories</h2>
