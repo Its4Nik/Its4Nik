@@ -52,9 +52,11 @@
   <a href="https://github.com/its4nik/dockstat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStat&theme=holi" alt="DockStat">
   </a>
+  <br />
   <a href="https://github.com/its4nik/dockstatapi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStatAPI&theme=holi" alt="DockStatAPI">
   </a>
+  <br />
   <a href="https://github.com/its4nik/DockStacks">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStacks&theme=holi" alt="DockStacks">
   </a>
