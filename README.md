@@ -48,8 +48,16 @@
 
 <h2 align="center">📌 Pinned Repositories</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its4nik&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![DockStat](https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStat&theme=holi)](https://github.com/its4nik/dockstat)
 
+[![DockStatAPI](https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStatAPI&theme=holi)](https://github.com/its4nik/dockstatapi)
+
+[![DockStacks](https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStacks&theme=holi)](https://github.com/its4nik/DockStacks)
+
+<h2 align="center>💻 Top Languages </h2>
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its4nik&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
