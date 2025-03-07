@@ -20,15 +20,7 @@
 
 <h2 align="center">🔧 Technologies & Tools</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/-Zed-black?style=flat-square&logo=zed" alt="Zed">
-  <img src="https://img.shields.io/badge/-Arch%20Linux-black?style=flat-square&logo=arch-linux" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code" alt="VS Code">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=arch,bash,bun,cloudflare,elysia,express,grafana,remix,sqlite,ts)](https://skillicons.dev)
 
 <h2 align="center">📈 GitHub Stats</h2>
 
