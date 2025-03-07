@@ -19,8 +19,11 @@
 </p>
 
 <h2 align="center">🔧 Technologies & Tools</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,bun,cloudflare,elysia,express,grafana,remix,sqlite,ts)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,bash,bun,cloudflare,elysia,express,grafana,remix,sqlite,ts" />
+  </a>
+</p>
 
 <h2 align="center">📈 GitHub Stats</h2>
 
