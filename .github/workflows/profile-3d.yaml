@@ -25,5 +25,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git diff --staged --exit-code || (git commit -m "CI/CD: generated 3D contrib" && git push)
+          git commit -m "CI/CD: generated 3D contrib"
+          git push
       
