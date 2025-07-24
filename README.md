@@ -1,5 +1,5 @@
 <h1 align="center">Heyoooo! I'm Nik</h1>
-<h3 align="center">A 17 year old Datacenter-Support worker!</h3>
+<h3 align="center">A 17 year old trainee as an IT specialist for system integration</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsnik&label=Profile%20views&color=0e75b6&style=flat" alt="itsnik" /> </p>
 <h1 align="center">Hi there, I'm Its4Nik 👋</h1>
 
