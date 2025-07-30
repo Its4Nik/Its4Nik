@@ -25,11 +25,11 @@
   </a>
 </p>
 
-# 💻 Insight
+<h2 align="center"> 💻 Insight</h2>
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=106100177" target="_blank" style="display: block" align="center">
   <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106100177&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Its4Nik" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106100177&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106100177&image_size=auto&color_scheme=dark" width="771" height="auto" align="center" >
+    <img alt="Dashboard stats of @Its4Nik" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106100177&image_size=auto&color_scheme=light" width="771" height="auto" align="center" >
   </picture>
 </a>
 
