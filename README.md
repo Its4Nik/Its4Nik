@@ -25,39 +25,7 @@
   </a>
 </p>
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<p align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=its4nik&show_icons=true&theme=holi"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=its4nik&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-</p>
-
-<h2 align="center">📌 Pinned Repositories</h2>
-
-<div align="center">
-  <a href="https://github.com/its4nik/dockstat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStat&theme=holi" alt="DockStat">
-  </a>
-  <br />
-  <a href="https://github.com/its4nik/dockstatapi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStatAPI&theme=holi" alt="DockStatAPI">
-  </a>
-  <br />
-  <a href="https://github.com/its4nik/DockStacks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=its4nik&repo=DockStacks&theme=holi" alt="DockStacks">
-  </a>
-</div>
-
-<h2 align="center">💻 Insight</h2>
+# 💻 Insight
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=106100177" target="_blank" style="display: block" align="center">
   <picture align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106100177&image_size=auto&color_scheme=dark" width="771" height="auto">
