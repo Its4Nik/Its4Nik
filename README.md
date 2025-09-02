@@ -8,7 +8,7 @@ Currently a **Trainee as an IT specialist for system integration** at [Hetzner](
 ## 💻 Tech Stack & Toolbox
 
 - **Languages & Frameworks:**
-- <img src="https://bun.sh/logo.svg" alt="Bun Logo" width="100" height="100">Bun, TypeScript, React-Router v7, ElysiaJS, SQLite
+- <img src="https://bun.sh/logo.svg" alt="Bun Logo" width="10" height="10">Bun, TypeScript, React-Router v7, ElysiaJS, SQLite
 - **Sysadmin & Infra:**  
   Linux, ZFS, TrueNAS Scale, BASH, Cloudflare, Grafana
 
