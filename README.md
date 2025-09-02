@@ -27,7 +27,7 @@ Currently a **Trainee as an IT specialist for system integration** at [Hetzner](
 
 ## 🚀 Projects
 
-### [DockStat](#)  
+<img width="2834" height="625" alt="2834-625-max" src="https://github.com/user-attachments/assets/2df72a6a-1084-43a8-a516-898dcb2febea" />
 
 DockStat is currently under development of a beta (since 1 year), there have been many challenges and hurdles over the development span.
 The goal of the project is to completely get rid of the command line when working with docker across multiple hosts, while offering an extensible set of features.
