@@ -7,24 +7,47 @@ Currently a **Trainee as an IT specialist for system integration** at [Hetzner](
 
 ## 💻 Tech Stack & Toolbox
 
-- **Languages & Frameworks:**
-- <img src="https://bun.sh/logo.svg" alt="Bun Logo" width="10" height="10">Bun, TypeScript, React-Router v7, ElysiaJS, SQLite
-- **Sysadmin & Infra:**  
-  Linux, ZFS, TrueNAS Scale, BASH, Cloudflare, Grafana
+**Languages & Frameworks:**
+- Bun
+- TypeScript
+- React-Router v7
+- ElysiaJS
+- SQLite
+- A bit of C# and Python
+
+**Sysadmin & Infra:**  
+- Linux
+- ZFS
+- TrueNAS Scale
+- BASH
+- Cloudflare
+- Grafana
 
 ---
 
-## 🚀 Favorite Project
+## 🚀 Projects
 
 ### [DockStat](#)  
-_"DockStat is my baby!"_  
-A modern, playful dashboard for container stats and more—built with performance and fun in mind.
+
+DockStat is currently under development of a beta (since 1 year), there have been many challenges and hurdles over the development span.
+The goal of the project is to completely get rid of the command line when working with docker across multiple hosts, while offering an extensible set of features.
+Currently there are these features planned:
+- Plugin support (backend and frontend)
+  - official plugins:
+    - Push Notifications
+    - HA-Proxy + HA-Proxy Auto conf
+    - Easy-Scale (Hetzner Cloud server scalling interface)
+    - and many more to come
+- Custom Themeing
+- Stacks
+
+The development of DockStat is rather slow, since I work on it by myself and never had anything to do with Web-Development, so it's quite a lot to learn :)
 
 ---
 
 ## 🌍 Connect with Me
 
-- 📧 [info@itsnik.de](mailto:info@itsnik.de)
+📧 [info@itsnik.de](mailto:info@itsnik.de)
 
 ---
 
@@ -34,13 +57,6 @@ When I’m not wrangling servers or coding, you’ll find me:
 - Skiing down mountains
 - Kite-surfing across waves
 - Enjoying the thrill of sporty challenges!
-
----
-
-## 🤹‍♂️ About My Style
-
-**Playfully Professional, Modern, and Always Curious.**  
-I believe tech should be fun, learning never stops, and every project is a new adventure.
 
 ---
 
