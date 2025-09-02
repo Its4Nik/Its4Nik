@@ -1,44 +1,47 @@
-<h1 align="center">Heyoooo! I'm Nik</h1>
-<h3 align="center">A 17 year old trainee as an IT specialist for system integration</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsnik&label=Profile%20views&color=0e75b6&style=flat" alt="itsnik" /> </p>
-<h1 align="center">Hi there, I'm Its4Nik 👋</h1>
+# 👋 Hi, I’m Nik! (Its4Nik)
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Its4Nik?style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/Its4Nik?style=social" alt="GitHub User's stars">
-</p>
+Welcome to my GitHub profile!  
+Currently a **Trainee as an IT specialist for system integration** at [Hetzner](https://hetzner.com), but you’ll find me diving deep into **software development** whenever I get the chance.
 
-<h2 align="center">🌟 About Me</h2>
+---
 
-<p align="center">
-  💻 I’m currently working on <b>DockStat (API)</b><br>
-  📚 I’m currently learning <b>TypeScript</b><br>
-  👯 I’m looking to collaborate on <b>DockStat</b><br>
-  💬 Ask me about <b>Bash and TrueNas Scale</b><br>
-  📫 How to reach me: <b>info@itsnik.de</b><br>
-</p>
+## 💻 Tech Stack & Toolbox
 
-<h2 align="center">🔧 Technologies & Tools</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,bash,bun,cloudflare,elysia,express,grafana,remix,sqlite,ts" />
-  </a>
-</p>
+- **Languages & Frameworks:**
+- <img src="https://bun.sh/logo.svg" alt="Bun Logo" width="100" height="100">Bun, TypeScript, React-Router v7, ElysiaJS, SQLite
+- **Sysadmin & Infra:**  
+  Linux, ZFS, TrueNAS Scale, BASH, Cloudflare, Grafana
 
-<h2 align="center"> 💻 Insight</h2>
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=106100177" target="_blank" style="display: block" align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106100177&image_size=auto&color_scheme=dark" width="100%" height="auto" align="center" >
-    <img alt="Dashboard stats of @Its4Nik" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=106100177&image_size=auto&color_scheme=light" width="100%" height="auto" align="center" >
-  </picture>
-</a>
+---
 
-<h2 align="center">📫 Connect with Me</h2>
+## 🚀 Favorite Project
 
-<p align="center">
-  <a href="mailto:info@itsnik.de">
-    <img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail" alt="Email">
-  </a>
-</p>
+### [DockStat](#)  
+_"DockStat is my baby!"_  
+A modern, playful dashboard for container stats and more—built with performance and fun in mind.
 
-<p align="center">Thanks for stopping by! Have a great day! 😄</p>
+---
+
+## 🌍 Connect with Me
+
+- 📧 [info@itsnik.de](mailto:info@itsnik.de)
+
+---
+
+## ⛷️ Outside the Terminal...
+
+When I’m not wrangling servers or coding, you’ll find me:
+- Skiing down mountains
+- Kite-surfing across waves
+- Enjoying the thrill of sporty challenges!
+
+---
+
+## 🤹‍♂️ About My Style
+
+**Playfully Professional, Modern, and Always Curious.**  
+I believe tech should be fun, learning never stops, and every project is a new adventure.
+
+---
+
+> _“Code is like skiing: sometimes you need to take risks to find the best run.”_
