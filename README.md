@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 ### **Languages & Frameworks**
 <div>
@@ -61,7 +61,7 @@
 
 ---
 
-## 🌍 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -71,11 +71,3 @@
 
 </div>
 
----
-
-## ⛷️ When I'm Away from the Keyboard
-
-When I'm not debugging or deploying, you'll find me:
-- **Skiing** down mountains at full throttle
-- **Kite-surfing** across waves
-- Chasing **sporty adrenaline** in all its forms
