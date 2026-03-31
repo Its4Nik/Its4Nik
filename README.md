@@ -1,63 +1,81 @@
-# 👋 Hi, I’m Nik! (Its4Nik)
+# Hi, I'm Nik! (Its4Nik)
 
-Welcome to my GitHub profile!  
-Currently a **Trainee as an IT specialist for system integration** at [Hetzner](https://hetzner.com), but you’ll find me diving deep into **software development** whenever I get the chance.
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=818cf8&center=true&vCenter=true&width=500&height=50&lines=IT+Support+%7C+Full-Stack+Developer;Building+DockStat;Always+Learning%2C+Always+Building)](https://github.com/Its4Nik)
 
----
+**Trainee IT Specialist for System Integration** @ [Hetzner](https://hetzner.com)  
+🚀 Diving into **software development**
 
-## 💻 Tech Stack & Toolbox
-
-**Languages & Frameworks:**
-- Bun
-- TypeScript
-- React-Router v7
-- ElysiaJS
-- SQLite
-- A bit of C# and Python
-
-**Sysadmin & Infra:**  
-- Linux
-- ZFS
-- TrueNAS Scale
-- BASH
-- Cloudflare
-- Grafana
+</div>
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack & Skills
 
-<img width="2834" height="625" alt="2834-625-max" src="https://github.com/user-attachments/assets/2df72a6a-1084-43a8-a516-898dcb2febea" />
+### **Languages & Frameworks**
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bun-FBDE67?style=for-the-badge&logo=bun&logoColor=black" />
+  <img src="https://img.shields.io/badge/ElysiaJS-228BE6?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
-DockStat is currently under development of a beta (since 1 year), there have been many challenges and hurdles over the development span.
-The goal of the project is to completely get rid of the command line when working with docker across multiple hosts, while offering an extensible set of features.
-Currently there are these features planned:
-- Plugin support (backend and frontend)
-  - official plugins:
-    - Push Notifications
-    - HA-Proxy + HA-Proxy Auto conf
-    - Easy-Scale (Hetzner Cloud server scalling interface)
-    - and many more to come
-- Custom Themeing
-- Stacks
+### **Infrastructure & DevOps**
+<div>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/ZFS-333333?style=for-the-badge&logo=freebsd&logoColor=white" />
+  <img src="https://img.shields.io/badge/TrueNAS-0087E8?style=for-the-badge&logo=truenas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</div>
 
-The development of DockStat is rather slow, since I work on it by myself and never had anything to do with Web-Development, so it's quite a lot to learn :)
+---
+
+## Featured Project: DockStat
+
+<div align="center">
+  <img width="2834" height="625" alt="DockStat Dashboard" src="https://github.com/user-attachments/assets/2df72a6a-1084-43a8-a516-898dcb2febea" />
+  <br />
+  <img src="https://img.shields.io/badge/Status-Beta-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Development-Active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MPL_2.0-purple.svg?style=flat-square" />
+</div>
+
+**The goal:** Eliminate the CLI for Docker management across multiple hosts with an extensible, feature-rich platform.
+
+### Features:
+- **Plugin Support** (Backend & Frontend)
+  - Plugins: Push Notifications, HA-Proxy Auto Config, Easy-Scale (Hetzner Cloud)
+- **Custom Theming**
+- **Stack Management and Docker Swarm Integration**
+- and many more...
+
+> *Development note:* Building this solo while learning web development from scratch—it's a journey!
 
 ---
 
 ## 🌍 Connect with Me
 
-📧 [info@itsnik.de](mailto:info@itsnik.de)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@itsnik.de)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Its4Nik)
+[![Website](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://itsnik.de)
+
+</div>
 
 ---
 
-## ⛷️ Outside the Terminal...
+## ⛷️ When I'm Away from the Keyboard
 
-When I’m not wrangling servers or coding, you’ll find me:
-- Skiing down mountains
-- Kite-surfing across waves
-- Enjoying the thrill of sporty challenges!
-
----
-
-> _“Code is like skiing: sometimes you need to take risks to find the best run.”_
+When I'm not debugging or deploying, you'll find me:
+- **Skiing** down mountains at full throttle
+- **Kite-surfing** across waves
+- Chasing **sporty adrenaline** in all its forms
